@@ -1,0 +1,22 @@
+```{r, include=FALSE}
+# Links
+rlink <- "[R](http://r-project.org/){target='_blank'}"
+rstudio <- "[RStudio](http://rstudio.org/){target='_blank'}"
+cran <- "[CRAN](http://cran.r-project.org/){target='_blank'}"
+github <- "[GitHub](http://github.com/){target='_blank'}"
+git <- "[Git](https://git-scm.com/)"
+```
+
+# Quem é Ciriégola?
+
+## Introdução
+
+## Solilóquio com prelúdio
+
+## Ciriégola por Manoel Cavalcante
+
+## Estrutura dos próximos capítulos
+
+
+
+
