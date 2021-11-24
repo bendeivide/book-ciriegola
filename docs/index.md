@@ -1,7 +1,7 @@
 --- 
 title: "Pelos caminhos de Ciriégola"
 author: "Ben Dêivide"
-date: "2021-11-20"
+date: "2021-11-24"
 #lang: pt
 csl: abnt.csl
 site: bookdown::bookdown_site
@@ -18,7 +18,7 @@ github-repo: bendeivide/book-ciriegola
 ---
 # Bem-vindo {-}
 
-<a href="https://bendeivide.github.io/books/ciriegola/"><img src="capa.png" align="right" width="250" height="366" class="cover" alt="Compre pela internet" /></a> Esse é um *livro digital* da coleção __"[Pelos caminhos de Ciriégola]()"__, com o selo [Democratizando Conhecimento (DC)](https://bendeivide.github.io/dc/). O Livro é um convite para mergular nas poesias, textos e prosas de José Alcigério Batista, o Ciriégola.
+<a href="https://bendeivide.github.io/books/ciriegola/"><img src="capa.png" align="right" width="250" height="366" class="cover" alt="Compre pela internet" /></a> Esse é um *livro digital* intitulado __"[Pelos caminhos de Ciriégola]()"__, com o selo [Democratizando Conhecimento (DC)](https://bendeivide.github.io/dc/). O Livro é um convite para mergular nas poesias, textos e prosas de José Alcigério Batista, o Ciriégola.
 
 O número de leitores  que acessaram esse livro:
 </br>
