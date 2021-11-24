@@ -1,3 +1,4 @@
-# Livro Estudando o Ambiente R - Volume I: Nível Básico
+# Pelos caminhos de Ciriégola
 
-Esse livro terá o objetivo de apresentar de forma introdutória a **sintaxe** e **semântica** da linguagem `R`, enfatizando definições importantíssimas para a linguagem como **objeto**, **função** e **pacote**, como também outras definições.
+Ser poeta não é necessariamente saber fazer o verso, mas dizer as coisas com beleza e graça, é ter certeza de que sua emoção é boa e construtiva para poder motivar os
+outros; é ter inteligência o suficiente para fazer do instante um grande momento. Ser poeta, gentil e sábio é saber ver na essência das pessoas nossas semelhanças e nossa paixão pela eternidade (José Alcigério Batista)
