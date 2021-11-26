@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Um forte de Ciriégola são as suas declarações. Declarações para a sua juventude, para seus ídolos, comunidades, suas ferramentas de trabalho, para suas musas. E como ele mesmo menciona em uma de suas poesias^[Poesia na subseção \@ref(poem-oartista), intitulado __O Artista__], ``O artista é aquela cara que não é casado nem solteiro, tem compromissos com o momento''. É algo tão poético e genérico, que o leitor pode levar como inspiração as suas próprias declarações. Apreciem com muita paixão.
+Um forte de Ciriégola são as suas declarações. Declarações para a sua juventude, para seus ídolos, comunidades, suas ferramentas de trabalho, para suas musas. E como ele mesmo menciona em uma de suas poesias^[Poesia na subseção \@ref(poem:oartista), intitulada __O Artista__], “O artista é aquela cara que não é casado nem solteiro, tem compromissos com o momento”. É algo tão poético e genérico, que o leitor pode levar como inspiração as suas próprias declarações. Apreciem com muita paixão.
 
 
 ## Poesias, prosas e textos
