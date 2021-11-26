@@ -1,7 +1,7 @@
 --- 
 title: "Pelos caminhos de Ciriégola"
 author: "Ben Dêivide"
-date: "2021-11-24"
+date: "2021-11-25"
 #lang: pt
 csl: abnt.csl
 site: bookdown::bookdown_site

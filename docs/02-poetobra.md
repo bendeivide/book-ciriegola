@@ -1,0 +1,623 @@
+# O poeta pela obra
+
+## Introdução
+
+Em forma de poesia, Ciriégola apresenta seu solilóquio. Uma mistura da fauna e flora nordestina adentrando em seu íntimo, de tal modo que se entende Ciriégola como parte de tudo. Apesar do registro de nascimento em Portalegre/RN, seu nascimento ocorre na cidade de São Miguel/RN, devido a condição nômade de seu Pai, Alcides Batista, devido aos ofícios do trabalho, como construtor de açudes pelo DNOCS^[Departamento Nacional de Obras Contra Seca, uma repartição de Órgão Federal.]. Talvez a astúcia poética de Ciriégola tenha heranças genéticas de Alcides Batista, uma vez que este sem ao menos ter o primário completo, usava sementes de feijão no bolso como a sua calculadora, para averiguar se as fundações de açudes na região estavam de acordo com os projetos desenvolvidos pelos engenheiros da época.
+
+Essa astúcia herdada fez com que Ciriégola conseguisse desde as suas frustações, como a poesia na subseção \@ref(poesia-medo), intitulada __Medo__, até mesmo a sua  anomalia etílica, em __A Dama de Branco__, ser transformada em poesia. Sem mais, a seção a seguir apresenta uma seleção de 17 poesias, textos ou prosas sobre Ciriégola por ele mesmo.
+
+## Poesias, prosas e textos
+
+### Meu Nome É Falcão Ligeiro, Mas Me Chamam De Léo Batista
+
+<pre>
+Eu nasci naquela Serra
+Que é hoje São Miguel
+Uso barba e chapéu
+Fui professor nessa guerra
+Vim de longe de outra Terra
+De um mundo pacifista
+Sou do Amor, um ativista
+Sou da Paz, um mensageiro
+Meu nome é Falcão Ligeiro
+Mas me chamam Léo Batista
+
+Eu tenho o pé rachado
+De andar na terra quente
+Eu como diariamente
+Feijão com tocin’ torrado
+Só durmo dependurado
+Numa rede que resista
+O tranco d’um anarquista
+Na senda de um guerreiro
+Meu nome é Falcão Ligeiro
+Mas me chamam Léo Batista
+
+Minha mãe foi professora
+Meu pai feitor de açude
+Deram-me verso e saúde
+E uma vida promissora
+Minha sina sedutora
+Me botou cedo na pista
+Sofri muito na conquista
+De coração bandoleiro
+Meu nome é Falcão Ligeiro
+Mas me chamam Léo Batista
+
+Tenho sangue retirante
+Deixei meu rastro profundo
+Nas estradas deste mundo
+Fui um sagaz estudante
+Muitas vezes exultante
+Nesta vida fatalista
+Fui porteiro e arquivista
+No meu sertão sou arteiro
+Meu nome é Falcão Ligeiro
+Mas me chamam Léo Batista
+
+Decimoterceirinado
+Meu dia de nascimento
+É algo sem cabimento
+Ter o 13 do meu lado
+Meu dia 13 sagrado
+De setembro pacifista
+Minha ALMA de artista
+Repousa neste sendeiro
+Meu nome é Falcão Ligeiro
+Mas me chamam Léo Batista
+
+Nasci sem religião
+Sem partido e sem bandeira
+Sem dinheiro e sem besteira
+E sem gostar de palavrão
+Há quem me chame pagão
+Há quem me chame sofista
+Um nome fora da lista
+Um nome de mandingueiro
+Meu nome é Falcão Ligeiro
+Mas me chamam Léo Batista
+
+Moro de fronte pro Norte
+Bem perto do batalhão
+Todo mundo é meu irmão
+É um bom lugar de sorte
+Aqui eu me sinto forte
+O povo é positivista
+Acham que sou repentista
+Nego pro mundo inteiro
+Meu nome é Falcão Ligeiro
+Mas me chamam Léo Batista
+
+Sou Panati e Potiguar
+Sou Cafuso ou sou pardo?
+Talvez eu seja um bardo
+Sem viola p’ra cantar
+Eu aceito me chamar
+Qualquer nome que invista
+Bem, na moral da conquista
+E me traga jeito ordeiro
+Meu nome é Falcão Ligeiro
+Mas me chamam Léo Batista
+
+Alcides, nome de pain’
+Minha mãe é Jozélea
+Minha irmã, Auricélia
+E tudo ficou assim
+Da mesma forma p’ra mim
+Alcigério, conquista
+Usual, mas não despista
+O meu nome verdadeiro
+Meu nome é Falcão Ligeiro
+Mas me chamam Léo Batista
+
+Sou um xamã nordestino
+O tenho como missão
+Tenho muita gratidão
+Por isso no meu destino
+Sou assim desde menino
+Meu padrão é otimista
+Minha vida é uma conquista
+Sou alegre e sou faceiro
+Meu nome é Falcão Ligeiro
+Mas me chamam Léo Batista
+</pre>
+
+### O Retrato
+
+<pre>
+Já venho de muito longe, lá do outro lado
+Onde as sombras conservam as formas originais
+Sem as intervenções medíocres carbomateriais
+E o paradigma ainda mantém-se imaculado
+Astros e estrelas iluminam o universo inimaginado
+Liberdade é a única prisão admitida
+Consciência é  mestra e velha conhecida
+Inspiração é a tônica de todos os sistemas
+Generosidade é o  mais rico dos fonemas
+Esperança é jóia rara lá e muito bem guarnecida
+Retornei novamente a labuta desta vida
+Intuindo consertar outra vez minhas pegadas
+Outra vez vou vagar pelas ruas e estradas
+Burilando as ações e cada gesto desta lida
+Assim receberei minha  certa e justa medida
+Tornarei á minha  casa para nunca mais voltar
+Instalarei em minha terra um estado popular
+Saturado de beleza, justiça, amor e sorte
+Terá de  novo  nome de Rio Grande do Norte
+A soberania será de todo povo potiguar
+</pre>
+
+### A Foto
+
+<pre>
+Eu namorava as cabrochas nas aldeias
+Aqui ainda corria sangue bom nessas veias
+O apêndice se exibia com talento e competência
+
+A degeneração caprichosa do carbono
+Esse tirano que devora juventude
+Tem me roubado as baterias, amiúde
+O prazer de todo e qualquer ser humano
+
+Mas eu me conformo com o que me resta
+O calado menino pra alguma coisa presta
+De vez em quando ele se levanta e se esbroa
+
+Aí eu visualizo um clima de neblina
+Eu aproveito toda força da urina
+E brinco a noite toda com a patroa
+</pre>
+
+### O Falcão do Semiárido
+
+<pre>
+Sou um  Falcão micaelense
+Filho de uma princesa oestana
+Nasci na rama da jitirana
+Do Vento Norte, caçula irmão
+De Porta Alegre trago a adoção
+Nas veias trago sangue Panati
+De Ti, ó  Proboscídeo Pater
+Herdei as  manhas Potiguara
+Amar a gleba tosca rara
+É a cara e sublimação
+Que trago dentro da alma
+
+Sou um Falcão do semiárido
+De pálida tez altiva e clara
+Teimoso e perspicaz como arara
+Perseguidor avesso ao mal destino
+Voar sempre como bicho peregrino
+É o escrutínio abrupto necessário
+Para se aprender a dever pouco e sofrer menos
+
+Sou  Falcão de garras em riste
+De uma alva e pura terra
+Das serras, pradarias e queimadas tristes
+Da seca ravina cavernosa
+De mal cheirosa elite pequenina
+Que assoreia a consciência nobelina
+De um sertão espoliado e empedernido
+
+Sou um Falconídeo de tantas lembranças boas
+Que voa nas asas de um tempo altaneiro
+Onde o falcão ligeiro tinha abundância e fartura
+A doçura da jandaíra enchia as cabaças dos antigos
+E os inimigos comuns eram tão poucos.
+Naquele tempo o Apodi corria no seu leito
+Do jeito que um curumim saltita na puberdade
+Num sabe ?! Cheio de escaramuças e liberdade
+A Terra, nossa  Mãe se desmanchava em leite e mel
+O dossel da mata era um verdadeiro templo natural
+A magia da dança e do canto ritual era oração comum
+E qualquer um podia ver Deus no rio, nas plantas
+No Avô Céu,  nos produtos da terra, nas nossas anatomias
+Todo dia enfim, era nosso dia
+
+Sou um Falcão, irmão  de tantos irmãos
+Da nação antiga de Potiguara e Cariri
+Guerreiros passivos que lutam no silêncio dos ideais
+Ancestrais revestidos de neologismo flexível e portável
+Afável é um futuro que se avizinha às  heranças
+Lanças, arcos ou bordunas, não mais serão as armas
+Desse milênio inusitado, mas neurônios conectados e fortalecidos
+Imbuídos pela promessa do retorno às origens
+Pasmarão ante as impossibilidades de ferir sua própria miscigenação
+Desconfiarão jamais, que os filhos da terra voltarão
+Como filhos de suas próprias filhas e herdarão
+Uma herança que já se sabia  a quem pertencia por direito
+
+Sou, hoje, um Falcão solitário como o RN
+Do meu abecedário  brejeiro e provinciano
+Nem lusitano, nem otário
+Nem cidadão, nem perdulário
+Sou o resquício de uma geração nativa
+Notívaga e adormecida em cada seca que se  inicia
+Ativa e viçosa em cada inverno que por vez molha
+Cada folha da caatinga do sertão nordestino
+</pre>
+
+### Origem
+
+<pre>
+Eu sou da linhagem Panati
+Minha Mãe é a Terra
+Meu Pai é o Céu
+O Sol é meu Avô
+A Lua é  minha Avó
+O Povo Planta, o Povo Animal e o Povo Pedra
+São meus primos
+O fogo, a terra, o ar e a água
+São meus parentes
+Meus ancestrais dormem
+No seio sagrado desta terra
+Por isso
+Eu piso nela devagar
+</pre>
+
+### Memórias De Um Filho Prematuro
+
+<pre>
+Em minhas gônadas carrego cativa
+A solidez do embrião prematuro
+E por mais que queiras lançar-te ao monturo
+Das conturbadas situações corrosivas
+Transformar-te-ei em vontade que ativas
+A repreensão que imponho com tanta energia
+Vivo contigo, meu filho, todo dia
+Observando por ti, minha geração profana
+Portanto, repousa na tua paz soberana
+Tenhas esperanças e sorri pra mim, alegria
+
+Muitas vezes pelas ruas da cidade
+Deparo-me com aqueles que do teu mundo vieram
+Híbridas crianças que de incautos provieram
+Desprezadas e reprimidas pela falsa sociedade
+Que só pelo fato de atrair outra amizade
+Manchando a alma com tirana covardia
+Repõe  nas esmolas os desejos da avaria
+Depois se julga educado e caridoso
+Como vês, tudo é muito arriscado e perigoso
+Por isso, sorri meu filho, alegria
+
+Teu lugar ainda não foi preparado
+E tua mãe te espera aflita em castidade
+Mas hoje mesmo por uma necessidade
+Saí em busca de um trabalho no mercado
+Pelos homens da política fui barrado
+Voltei chutando as pedras da via
+Imagine se estivesses neste dia
+O teu leite eu teria que furtar
+Sendo assim acho melhor esperar
+Por enquanto, sorri filho, alegria
+
+Teu mundo é porque  tem tanta inocência
+Precisavas ver o que dizem os jornais
+O pensamento dos teus irmãos nacionais:
+É nas armas defensivas de guerra pela ciência
+Sem pensar que a terrível conseqüência
+É poluir as correntes da água da freguesia
+Esquecendo os direitos até da filantropia
+Podendo toda a ecologia vir a perecer
+Por isso, pra que tanta vontade de nascer?
+Agora bom mesmo é sorrir filho, alegria!
+
+Todas estas cousas,  afora outras passageiras
+Evitarás não querendo nascer agora
+Calma! Chegará um dia a tua hora
+Onde não encontrarás nem trevas, nem barreiras
+Que possas te impedir de limpar as sujeiras
+Nos livres caminhos da tua democracia
+Trarás aos viventes uma nova filosofia
+Que agradará aos gregos e aos troianos
+Sendo assim, esperarei com risos, sem enganos
+E sorrirás também comigo, sorri, alegria!
+
+Quando chegar o momento do áureo florescer
+Nascerás como os mandacarus do sertão
+Desconhecerás a fome, o maltrato, a opressão
+Serás três vezes grande,  sem sobre os outros crescer
+Nestas alturas, estou perto de perecer
+Pela idade que traz rugas e monotonia
+Mesmo acompanhando um bastão como meu guia
+Estarei feliz por ter atingido o meu fim
+Desta vez tu és quem dirás pra mim:
+Sorrias pai, sorri pra mim, alegria!
+</pre>
+
+### Medo {#poesia-medo}
+
+<pre>
+Quando eu era ainda um menino  tinha
+Medo do escuro
+Medo de trovoada
+Medo de “alma”
+Medo da morte
+Medo da solidão
+Medo da dor
+Medo de médicos
+Medo  de falar mentiras
+Medo da incerteza
+Medo do pesadelo
+Medo do “cão”
+Medo de vacina
+Medo de adoecer
+Medo de igreja
+Medo de hospital
+Medo de quartel
+Medo de cemitério
+Medo de escola
+Medo de altura
+Medo do canto da rasga-mortalha
+Medo de ser reprovado
+Medo de fazer cocô em hora incerta
+Medo de notícia ruim na chegada
+Medo de ter medo
+O tempo passou
+E ainda continuo em trabalho de parto
+Que merda!
+</pre>
+
+### Vampiro Urbano
+
+<pre>
+Notívaga criatura da noite, eu sou
+O fluido inebriante alucina minh’alma
+Sem essa vítima não consigo manter a calma
+Os caninos eu banho nesse sangue pr’onde vou
+
+Meu amor e minha ânsia ao agarrar um gogó
+É tal qual o falcão agarra um lepurino
+É como um petisco nas mãos de um menino
+Que abate a sua presa de um golpe só
+
+Tremo no prazer ao pensar nas vítimas devolutas
+São todas damas da noite, generosas prostituas
+Que se fartam alucinadas em frenesi de bacanais
+
+Na verdade esse sangue se encontra nas adegas
+Destilam, fartamente abundam em todas as bodegas
+É o veneno que eu preciso, o sumo puro dos canaviais
+</pre>
+
+
+### A Dama De Branco
+
+<pre>
+Ela é jovial e faz a festa de burguês a cortesão
+Ludibria a consciência de magistrado a reverendo
+Essa dama de branco que eu muito compreendo
+Não vacila na cobaia inocente da sua pretensão
+
+Seja branco, preto, rico, religiosos, ateus ou nobres
+Vã e triste é a sina daqueles que cruzam tais estradas
+Os prostíbulos se abarrotam de hébrios e deixam pegadas
+Que muito marcaram ignotas campas, rasas covas pobres
+
+Tenho arquitetado minha renúncia todos esses anos
+Tenho feito muitas juras e diversificados planos
+Para deixar essa mulher ingrata e traiçoeira
+
+Mas quanto mais eu mais fujo dessa plebe etilia
+Mais aumenta o consumo dessa imbecil anomalia
+Mais uma garrafa se esvai e se evapora da prateleira
+</pre>
+
+### Léo Falcão
+
+<pre>
+Eu sou o veloz Falcão Ligeiro
+Nascido nas brenhas da caatinga
+Sou filho da serra e da mandinga
+Do astuto Carcará de tabuleiro
+
+Ninguém sabe onde é o meu poleiro
+Nem imagina quem é a minha prole
+Minha casa é secreta e ninguém bole
+Tem embaixo um enorme formigueiro
+
+Por cima tem uma farta rama de aveloz
+Que mata,  envenena, maltrata e é atroz
+Impondo o incauto em um febril dilema
+
+E sem querer tornar as coisas comoventes
+Do lado mora a mais terrível das serpentes
+Que mora  no oco daquela  velha jurema
+</pre>
+
+### Profissão: Professor
+
+<pre>
+Penso, às vezes, que a pior escolha tirana
+Repousa na escolha de uma profissão errada
+O mesmo é que andar com uma cueca cagada
+Fugindo de um feroz enxame de abelha italiana
+Imprudente é a mentalidade de qualquer mente sana
+Supor fazer carreira numa profissão de impropério
+Seria melhor politizar defunto em cemitério
+Arrebanhar prostitutas em busca de seus direitos
+Ou ser gigolô de todas as raparigas dos prefeitos
+
+Denunciando todas as riquezas daquele ministério
+É horripilante, odiento, atroz e injurioso
+
+Produzir conhecimento é formar boa opinião
+Reduzir-se a mesquinharias, ser escravo da razão
+Obrigado a receber um salário fulgaz e doloroso
+Futuro próximo trará  mister fútil e imperioso
+Escolas públicas chorarão a falta desse profissional
+Solitário, esquecido e sem nenhuma função social
+Sobrarão vagas nas escolas e em seu corpo docente
+O estado sofrerá a dor por ter sido imprudente
+Renascerá a nova escola holística e interacional
+</pre>
+
+### Meu Cavalo Baio
+
+<pre>
+Lakayo, meu cavalo baio, meu companheiro amigo, inseparável soma
+Assumo a sorte de tê-lo como escudeiro nesta estranha estrada
+Armada e dura, a armadura pesada sobre as costas nunca reclamastes
+Nem passastes o passo além do pensamento nobre do meu Atma
+
+Lakayo, meu cavalo baio, meu companheiro amigo, inseparável soma
+Acompanhaste-me desde a mais tenra primavera da minha juventude
+Foste-me o presente mais caro daquele insofismável 13 de setembro
+Como eu poderia ver o mundo sem teus olhos, ouvir sem teus ouvidos?
+Falar e soltar o verbo sem a tua boca, cheirar a brisa sem as tuas narinas?
+Como eu poderia sentir sem o teu coração e pensar sem teu sano cérebro?
+Como eu poderia atingir o paraíso e me reproduzir sem o teu fálus?
+
+Lakayo, meu cavalo baio, meu companheiro amigo, inseparável soma
+Miro-te no espelho e sinto a presença genomática dos meu ancestrais
+Não pude dar-te a companheira ufana dos teus indomáveis onirismos
+Mas contemplo o milagre da beleza estóica no semblante da tua prole
+Não pude dar-te rédeas para correr o mundo das tuas sutis espertezas
+Mas te mostrei a sabedoria nobre que habita no âmago da generosidade
+
+Lakayo, meu cavalo baio, meu companheiro amigo, inseparável soma
+Fiz-te conhecer os etílicos sabores e os inebriantes efeitos da enologia
+Mas te ensinei os limites que devemos tomar e agir nas adversidades
+Ensinei-te a empunhar a balestra e o local exato dos plexos humanos
+Porém te ensinei a guardar a aljava e o arco em tempos de confrarias
+
+Lakayo, meu cavalo baio, meu companheiro amigo, inseparável soma
+Não foste o ginete padrão da hodierna e acéfala sociedade cartesiana
+Cresceste anarquista e morrerás liberto de todos os fundamentalismos
+</pre>
+
+### Personalidade
+
+<pre>
+De poeta e cantor, sou novo,
+Mas de amor e coração,
+Eu sou velho
+Se já não fui feliz
+É porque Pai destino não quis
+Que eu fosse feliz
+Não canto por prata e sim por amor
+Não tenho anel nem diploma de doutor
+Eu sou apenas um ser estável
+Como muitos no mundo de meu Deus
+E por riqueza
+Eu tenho o céu como teto
+E as estrelas por luz
+Minha namorada: noites vagas
+E um amigo prá dizer canção
+O meu defeito é sempre um bom cara
+E a vontade de ser mais feliz
+Se me perguntam se sou vagabundo
+Eu não nego
+Minha blusa rota
+E minha calça desbotada
+Dizem tudo
+O meu defeito é ser sempre um bom cara
+E a vontade de ser mais feliz
+</pre>
+
+### Nasci Poeta
+
+<pre>
+Nasci poeta
+De amor embriagado
+Sou filiado
+A matriz da solidão
+Meu coração
+Em lucidez onipotente
+Trás a semente pelo que fiz
+Fui combatente
+Pela Paz filosofia
+Minha alegria
+É ver tudo feliz
+Do cosmo estéril
+Pelo qual me sinto escravo
+Não sou um bravo
+Sou sonhador
+Em canos longos, largos
+Corre quente em mim
+O sangue poesia
+A ironia
+Mãe da natureza plebe
+Fez de mim um
+Um cantador
+Solicitude
+É a magia do meu ser
+Na plenitude
+Sou qual bicho no querer
+Meu mundo é esse
+Que você manjou
+Nasci poeta
+Plebeu cantor
+</pre>
+
+### Meu Barco À Vela
+
+<pre>
+Lá vai o meu barco à vela
+Levando o seu  passageiro
+Descendo  a cachoeira
+Última viagem da vida
+Lá vai meu barco à vela
+Num soluçar verdadeiro
+Deixando rastro e poeira
+Só uma passagem de ida
+Quem sonhou com a vida
+Encontra a vida
+Essa infinda  crença,
+Quem sonhou com morte
+Ha decepção na imortalidade
+Num coração peregrino
+A ilusão so provoca a dor
+Nada mais
+Lá vai o meu barco à vela
+Num acenar derradeiro
+Deixando uma esteira
+De promessa mal cumprida
+La vai o meu barco a vela
+Deixando o mundo, ligeiro
+Quem fica, paga a conta
+Depois a gente se acerta
+</pre>
+
+### Via Peregrina
+
+<pre>
+Esta Terra amena tem o hino e as pegadas dos meus passos
+Traços genéticos, laços dos meus ávidos destinos
+Têm a sina e a senha triunfal com ídeos méritos latinos
+Dos nordestinos calos que calejadamente assolam meus braços
+
+Desses peregrinos passos faço mansa a senda da megalomania
+De alegria e graça que abraça  o cheiro de um povo generoso
+Cuja senha eriça o cenho de qualquer ditador espalhafatoso
+Cuja herança avança num passado escrito pela paleontologia
+
+A sabedoria asceta que assume o jeito desses passos marginais
+São os mesmos passos dados e repetidos pelos nossos ancestrais
+Que eu jamais negue a Terra amada por onde quer que eu ande
+
+Que eu morra tantas vezes se assim for preciso ou necessário
+Certamente escolherei outra vez minha pátria como berçário
+De novo nascerei em qualquer lugar ao norte do meu Rio Grande
+</pre>
+
+### Ensaios
+
+<pre>
+Eu sou panati
+Caboclo da serra
+Nasci nessa terra
+Hei de morrer aqui
+No rio apodi
+
+Costumava  pescar
+Prá fome mitigar
+Era um bom   alimento
+Não faltava provento
+Nesse belo lugar
+
+Depois veio ditar
+O branco assassino
+Traçou o destino
+Do povo potiguar
+</pre>
