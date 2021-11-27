@@ -22,7 +22,6 @@ meu-cavalo-baio
 personalidade
 nasci-poeta
 meu-barco-à-vela
-via-peregrina
 ensaios
 fauna-flora-e-misticismo
 introdução-2
@@ -30,7 +29,7 @@ poesias-prosas-e-textos-1
 pachamama---mãe-terra
 passarinho-de-estrada
 margaridas-na-favela
-chique-chique-lamparina-lagartixa-e-carcará
+xique-xique-lamparina-lagartixa-e-carcará
 karma
 nosso-mantra-graspiluximutecodefavon
 afirmações-de-um-peregrino
@@ -39,7 +38,7 @@ lugares
 introdução-3
 poesias-prosas-e-textos-2
 minha-cidade
-pegadas-de-deregrino
+pegadas-de-peregrino
 minha-terra-ke-admirinda-mondo
 o-paraíso
 loja-13-de-setembro

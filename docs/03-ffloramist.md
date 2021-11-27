@@ -37,7 +37,7 @@ Mas Mãe Terra, tem preço não
 Pachamama, nos deste o berço e o sossego
 A fruta que come, e o arrego
 Quando a carne não presta mais
-O grande Pai ta zangado
+O grande Pai tá zangado
 El niño manda o recado
 Destrói tudo por onde vai
 No horizonte uma Águia vagueia ao por do sol
@@ -114,14 +114,14 @@ As margaridas na favela
 
 Você já percebeu
 Que o tempo esgotou
-Prá você que só tirou
+Pra você que só tirou
 Mas não repôs, hipócrita
 Você não entendeu
 E assim não reciclou
 Sua atitude só ficou
 Num amanhã insólito
 
-O povo dalém mar
+O povo d'além mar
 Já pensam em comprar
 Um patrimônio nosso
 A minha mão na tua mão
@@ -130,7 +130,7 @@ Sozinho eu não posso
 
 A questão da consciência
 É o que faz a diferença
-Só assim refnascerá de novo
+Só assim renascerá de novo
 As margaridas na favela
 
 Notícias do Pará
@@ -139,7 +139,7 @@ Tão matando a mata...
 </pre>
 
 
-### Chique-Chique, Lamparina, Lagartixa E Carcará
+### Xique-Xique, Lamparina, Lagartixa E Carcará
 
 <pre>
 Se você quer saber de onde eu venho
@@ -150,7 +150,7 @@ Sou uma mistura de toucinho e feijão amassado
 Com rapadura preta e essência de fubá
 O meu cerne é carne seca sem fritura
 Dessa forma eu sou mesmo essa interessante mistura
-De xiquexique, lamparina, lagartixa e carcará
+De xique-xique, lamparina, lagartixa e carcará
 
 Adivinhe qual é a minha procedência?
 A ascendência direta vem dos mandacarus
@@ -329,12 +329,12 @@ Tudo é karma e nada mais
 ### Nosso Mantra: GRASPILUXIMUTECODEFAVON
 
 <pre>
-Acima  do  grande  espírito
+Acima  do  Grande  Espírito
 Só  existe  a  infinitude
-Do  seu  inefável e incondicional  amor
+Do  Seu  inefável e incondicional  amor
 Nada  pode    me   destruir  ou  derrotar
-pois eu sou parte dessa onipresente
-E poderosa energia
+pois eu sou parte dessa Onipresente
+E poderosa Energia
 </pre>
 
 ### Afirmações De Um Peregrino
@@ -348,9 +348,9 @@ Eu sou o amor
 Eu sou fortaleza
 
 Minha morada é uma roda sagrada
-Morada do criador
+Morada do Criador
 Dormindo ou acordado
-É forte o meu protetor
+É forte o meu Protetor
 
 Eu sou natureza,
 A fartura em minha mesa

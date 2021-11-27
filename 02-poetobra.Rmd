@@ -89,7 +89,7 @@ Meu nome é Falcão Ligeiro
 Mas me chamam Léo Batista
 
 Sou Panati e Potiguar
-Sou Cafuso ou sou pardo?
+Sou Cafuzo ou sou pardo?
 Talvez eu seja um bardo
 Sem viola p’ra cantar
 Eu aceito me chamar
@@ -100,7 +100,7 @@ Meu nome é Falcão Ligeiro
 Mas me chamam Léo Batista
 
 Alcides, nome de pain’
-Minha mãe é Jozélea
+Minha mãe é Josélia
 Minha irmã, Auricélia
 E tudo ficou assim
 Da mesma forma p’ra mim
@@ -191,7 +191,7 @@ Voar sempre como bicho peregrino
 É o escrutínio abrupto necessário
 Para se aprender a dever pouco e sofrer menos
 
-Sou  Falcão de garras em riste
+Sou Falcão de garras em riste
 De uma alva e pura terra
 Das serras, pradarias e queimadas tristes
 Da seca ravina cavernosa
@@ -391,7 +391,7 @@ Não vacila na cobaia inocente da sua pretensão
 
 Seja branco, preto, rico, religiosos, ateus ou nobres
 Vã e triste é a sina daqueles que cruzam tais estradas
-Os prostíbulos se abarrotam de hébrios e deixam pegadas
+Os prostíbulos se abarrotam de ébrios e deixam pegadas
 Que muito marcaram ignotas campas, rasas covas pobres
 
 Tenho arquitetado minha renúncia todos esses anos
@@ -443,7 +443,7 @@ Denunciando todas as riquezas daquele ministério
 
 Produzir conhecimento é formar boa opinião
 Reduzir-se a mesquinharias, ser escravo da razão
-Obrigado a receber um salário fulgaz e doloroso
+Obrigado a receber um salário fugaz e doloroso
 Futuro próximo trará  mister fútil e imperioso
 Escolas públicas chorarão a falta desse profissional
 Solitário, esquecido e sem nenhuma função social
@@ -503,7 +503,7 @@ E por riqueza
 Eu tenho o céu como teto
 E as estrelas por luz
 Minha namorada: noites vagas
-E um amigo prá dizer canção
+E um amigo pra dizer canção
 O meu defeito é sempre um bom cara
 E a vontade de ser mais feliz
 Se me perguntam se sou vagabundo
@@ -567,38 +567,16 @@ Essa infinda  crença,
 Quem sonhou com morte
 Ha decepção na imortalidade
 Num coração peregrino
-A ilusão so provoca a dor
+A ilusão só provoca a dor
 Nada mais
 Lá vai o meu barco à vela
 Num acenar derradeiro
 Deixando uma esteira
 De promessa mal cumprida
-La vai o meu barco a vela
+La vai o meu barco à vela
 Deixando o mundo, ligeiro
 Quem fica, paga a conta
 Depois a gente se acerta
-</pre>
-
-### Via Peregrina
-
-<pre>
-Esta Terra amena tem o hino e as pegadas dos meus passos
-Traços genéticos, laços dos meus ávidos destinos
-Têm a sina e a senha triunfal com ídeos méritos latinos
-Dos nordestinos calos que calejadamente assolam meus braços
-
-Desses peregrinos passos faço mansa a senda da megalomania
-De alegria e graça que abraça  o cheiro de um povo generoso
-Cuja senha eriça o cenho de qualquer ditador espalhafatoso
-Cuja herança avança num passado escrito pela paleontologia
-
-A sabedoria asceta que assume o jeito desses passos marginais
-São os mesmos passos dados e repetidos pelos nossos ancestrais
-Que eu jamais negue a Terra amada por onde quer que eu ande
-
-Que eu morra tantas vezes se assim for preciso ou necessário
-Certamente escolherei outra vez minha pátria como berçário
-De novo nascerei em qualquer lugar ao norte do meu Rio Grande
 </pre>
 
 ### Ensaios
@@ -611,7 +589,7 @@ Hei de morrer aqui
 No rio apodi
 
 Costumava  pescar
-Prá fome mitigar
+Pra fome mitigar
 Era um bom   alimento
 Não faltava provento
 Nesse belo lugar

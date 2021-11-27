@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Ah..., quantos lugares serão possíveis de conhecer com a seleção de poesias de Ciriégola para este Capítulo. O carinho que ele tem pela cidade Micaelense, talvez pelas boas lembranças de nossos familiares que posso representá-los nos nomes de Tia Graça e vovô Sebastião, pessoas de grande representação a nossa família, e que a cidade de São Miguel/RN é mencionada em muitos momentos pelos seus textos. Mas, também um convite a existência de algum lugar utópico, onde homem e natureza possam viver em simbiose, e que o AGORA seja o seu passado e futuro. Por meio desses textos, dentre outros, o leitor poderá desfrutar para o encontro do seu próprio lugar, como parte integrante desse Universo. Uma boa leitura!
+Ah..., quantos lugares serão possíveis de conhecer com a seleção de poesias de Ciriégola para este Capítulo. O carinho que ele tem pela cidade micaelense, talvez pelas boas lembranças de nossos familiares que posso representá-los nos nomes de Tia Graça e vovô Sebastião, pessoas de grande representação a nossa família, e que a cidade de São Miguel/RN é mencionada em muitos momentos pelos seus textos. Mas, também um convite a existência de algum lugar utópico, onde homem e natureza possam viver em simbiose, e que o AGORA seja o seu passado e futuro. Por meio desses textos, dentre outros, o leitor poderá desfrutar para o encontro do seu próprio lugar, como parte integrante desse Universo. Uma boa leitura!
 
 
 ## Poesias, prosas e textos
@@ -40,12 +40,12 @@ Todo amor que você tem
 Como ninguém, minha cidade
 </pre>
 
-### Pegadas De Deregrino
+### Pegadas De Peregrino
 
 <pre>
 Esta Terra amena tem o hino e as pegadas dos meus passos
 Traços genéticos, laços dos meus ávidos destinos
-Têm a sina e a senha triunfal com ideos méritos latinos
+Têm a sina e a senha triunfal com ídeos méritos latinos
 Dos nordestinos calos que calejadamente assolam meus braços
 
 Desses peregrinos passos faço mansa a senda da megalomania
@@ -59,7 +59,7 @@ Que eu jamais negue a Terra amada por onde quer que eu ande
 
 Que eu morra tantas vezes se assim for preciso ou necessário
 Certamente escolherei outra vez minha pátria como berçário
-De novo nascerei em qualquer lugar ao norte do meu rio grande
+De novo nascerei em qualquer lugar ao Norte do meu Rio Grande
 </pre>
 
 
@@ -82,7 +82,7 @@ Ke admirinda Mondo!
 Em qualquer parte do mundo, não importa onde eu possa estar
 Para lembrar da minha Terra basta os olhos fechar
 Lá estou no alto do sítio Cachoeira em pleno vigor do inverno
-É sensível o cheiro  da terra vermelha molhada e da flor de cana fístula
+É sensível o cheiro  da terra vermelha molhada e da flor de canafístula
 É possível lembrar daqueles rostos rosados e satisfeitos
 Satisfeitos por si só, com a vida e com todos
 
