@@ -94,7 +94,7 @@ Disso tudo vem o cuscuz, canjica, pamonha, angu, beiju,  tapioca e fubá
 Pão, broa, curau, xerém, pé-de-moleque, pipoca, farinha, e  mungunzá
 Para aqueles que se aventuram por ali em sua primeira viagem
 Enchem os olhos com a riqueza da nossa maravilhosa paisagem:
-Unha-de-gato, xiquexique, favela, maniçoba, jurema, jucá,  e  pinhão
+Unha-de-gato, xique-xique, favela, maniçoba, jurema, jucá,  e  pinhão
 Mufumbo, marmeleiro, palmatória, jatobá, jitirana, muçambê e cansanção
 
 Oh Mia koro! Ke admirinda mundo!
@@ -134,7 +134,7 @@ Parando  as  atividades para descançar a  mentE
 A  gente   pode    encontrar    aquilo  que  procurA
 Refletindo  no  pós - vida  e  que  tudo  tem   um  “Q”
 Além de  nossa  vil  visão  errante como uma  naU
-Inquieta. Que  sempre nossa  alma va,  busque a sI
+Inquieta. Que  sempre nossa  alma vã,  busque a sI
 Sobre  si  mesma,  e  que   as    pessoas  não  negueM
 O direito que todos têm de lutar pela felicidadE
 Elevando  a  qualidade   dos nossos pensamentoS

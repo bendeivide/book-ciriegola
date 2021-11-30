@@ -117,7 +117,7 @@ A Dona Josélia: por ter aberto a porta para este mundo
 A Paulo Freire: por ensinar o caminho das letras
 A Eliphas Levi: pelo ministério da magia antiga
 A Clara Takaki Brandão: por ensinar a riqueza do nosso alimento
-A Oscar Niemayer: pela beleza das curvas
+A Oscar Niemeyer: pela beleza das curvas
 A Zamenhof: pela esperança da Neutrala Lingvo
 A Gibran: pela beleza dos seus versos
 A Salvador Dali: pela estética da loucura

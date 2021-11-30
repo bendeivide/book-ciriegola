@@ -188,7 +188,7 @@ Fascina a mim até hoje a sua sabedoria
 Sua energia taurina até hoje me fascina
 Conhecia a pesca, a caça, asa aves de rapina
 Nas armadilhas pegava paca, mocó e preá
-Corro, teiú, codorniz, cangati, traíra, e mucura
+Corró, teiú, codorniz, cangati, traíra, e mucura
 Dessa forma eu sou mesmo essa interessante mistura
 De xiquexique, lamparina, lagartixa e carcará
 
@@ -337,7 +337,7 @@ pois eu sou parte dessa Onipresente
 E poderosa Energia
 </pre>
 
-### Afirmações De Um Peregrino
+### Afirmações De Um Peregrino {#poem:afirm-peregrino}
 
 <pre>
 Eu sou a fé

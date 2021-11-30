@@ -4,7 +4,7 @@
 
 Eu quando menino, ainda não havia nascido meu irmão caçula, Aléfe Batista, adorava esperar meu pai chegar para assistirmos desenho juntos. Adorávamos o Pica-Pau, dentre outros. Porém, à demora pela sua chegada do trabalho, era um tempo sem fim. Ao ponto, de eu ter que esperá-lo na esquina da Rua Hipólito Cassiano com a Rua 4 de Setembro, em Pau dos Ferros/RN. Esta última tem uma ladeira cuja subida vai ao encontro da Escola Estadual Tarcício Maia. Era lá o trabalho do meu pai, de modo que quando eu avistava, corria o máximo que podia. Daí surge a poesia __Pimpolho__, que logo em seguida, se torna música, e quando a canto, sempre volto ao mesmo lugar a inocência de um sonhador.
 
-Temos também muitas outras emoções, com __Colibri__, dedicada ao meu irmão Álefe Batista, __Uma Ala Na Luna__ didacada a Allanna Lopes, e ao nosso aconchego familia, __A Casa do Meu Pai__, que se refere ao meu avó Alcides Batista. Por fim, __Manhã, Tarde e Noite__ é o retorno para a sua casa, após as viagens, ao encontro de nossa Matriarca, Chica Batista. Sintam um pouco de nós, e leve apenas o que for bom!
+Temos também muitas outras emoções, com __Colibri__, dedicada ao meu irmão Álefe Batista, __Uma Ala Na Luna__ dedicada a Allanna Lopes, e ao nosso aconchego familia, __A Casa do Meu Pai__, que se refere ao meu avó Alcides Batista. Por fim, __Manhã, Tarde e Noite__ é o retorno para a sua casa, após as viagens, ao encontro de nossa Matriarca, Chica Batista. Sintam um pouco de nós, e leve apenas o que for bom!
 
 
 
@@ -21,7 +21,7 @@ Ferir-me   ou magoar
 Aqui por fora
 Quando a coisa está preta
 Eu pego minha maleta
-E vou prá casa do pai.
+E vou pra casa do pai.
 Eu sou filho único
 E apesar da dependência
 Minha mãe  tem paciência
@@ -165,14 +165,14 @@ Prepare o terreiro
 A gente vai dançar
 </pre>
 
-### Para Dona Flô
+### Para Dona FLÔ
 
 <pre>
 Anos 80s, nenhum motivo faria me esquecer dessa década, no comecinho
 de 80 eu vinha chegando de São Paulo, a cidade dos sonhos de muitos
 jovens que como eu ouvia o 14 Bis e a Banda Eva, foi mesmo por essa
 época que me encontrei pela primeira vez com dona Flô, minha FLÔ do
-Apodi. Nessa época eu tinha um fusca laranja, quer dizer, era de seu 
+Apodi/RN. Nessa época eu tinha um fusca laranja, quer dizer, era de seu 
 Alcides meu pai, mas eu mentia para todas elas e tinha muitos sonhos e
 muitas estórias na ideia, foi também nessa época maravilhosa que eu
 encontrei aquela galeguinha acanhada vinda do Sítio Bico-Torto às
