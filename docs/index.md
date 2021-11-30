@@ -1,7 +1,7 @@
 --- 
 title: "Pelos caminhos de Ciriégola"
 author: "Ben Dêivide"
-date: "2021-11-29"
+date: "2021-11-30"
 #lang: pt
 csl: abnt.csl
 site: bookdown::bookdown_site
@@ -24,11 +24,29 @@ O número de leitores  que acessaram esse livro:
 </br>
 <div align='center'><a href='https://www.free-website-hit-counter.com'><img src='https://www.free-website-hit-counter.com/c.php?d=9&id=130209&s=288' border='0' alt='Free Website Hit Counter'></a><br / ><small><a href='https://www.free-website-hit-counter.com' title="Free Website Hit Counter">Free website hit counter</a></small></div>
 
+## ISBN {-}
+
+Impresso e publicado no Brasil:
+
+- __ISBN__ (Digital): 978-65-00-35612-0
+- __ISBN__ (Impresso): 978-65-00-35611-3
+
 ## Licença {-}
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Este trabalho está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons - Atribuição-NãoComercial 4.0 Internacional</a>.
 
 <a href="https://bendeivide.github.io/dc/"><img src="Logo-DC-preto2.png" align="left" width="180" /></a>
+
+# Como citar {-}
+
+- Como citar essa obra (Impresso):
+
+BATISTA, B. D. O.. __Pelos caminhos de Ciriégola__. 1ed. Pau dos Ferros, RN:[sn]. 2021. 92p. ISBN 978-65-00-35611-3.
+
+- Como citar essa obra (Digital):
+
+BATISTA, B. D. O.. __Pelos caminhos de Ciriégola__. 1ed. Pau dos Ferros, RN:[sn]. 2021. 92p. ISBN 978-65-00-35612-0. Disponível em: <https://bendeivide.github.io/book-ciriegola/>
+
 
 # Dedicatória {-}
 
