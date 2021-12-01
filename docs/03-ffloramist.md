@@ -326,7 +326,7 @@ E se nasci pra ser feliz
 Tudo é karma e nada mais
 </pre>
 
-### Nosso Mantra: GRASPILUXIMUTECODEFAVON
+### Nosso Mantra: GRASPILUXIMUTECODEFAVON {#poem:mantra}
 
 <pre>
 Acima  do  Grande  Espírito

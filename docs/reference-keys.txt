@@ -31,7 +31,7 @@ passarinho-de-estrada
 margaridas-na-favela
 xique-xique-lamparina-lagartixa-e-carcará
 karma
-nosso-mantra-graspiluximutecodefavon
+poem:mantra
 poem:afirm-peregrino
 deus-em-mim
 lugares
