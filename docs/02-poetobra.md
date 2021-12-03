@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Em forma de poesia, Ciriégola apresenta seu solilóquio. Uma mistura da fauna e flora nordestina adentrando em seu íntimo, de tal modo que se entende Ciriégola como parte de tudo. Apesar do registro de nascimento em Portalegre/RN, seu nascimento ocorre na cidade de São Miguel/RN, devido a condição nômade de seu Pai, Alcides Batista, devido aos ofícios do trabalho, como construtor de açudes pelo DNOCS^[Departamento Nacional de Obras Contra Seca, uma repartição de Órgão Federal.]. Talvez a astúcia poética de Ciriégola tenha heranças genéticas de Alcides Batista, uma vez que este sem ao menos ter o primário completo, usava sementes de feijão no bolso como a sua calculadora, para averiguar se as fundações de açudes na região estavam de acordo com os projetos desenvolvidos pelos engenheiros da época.
+Em forma de poesia, Ciriégola apresenta seu solilóquio. Uma mistura da fauna e flora nordestina adentrando em seu íntimo, de tal modo que se entende Ciriégola como parte de tudo. Apesar do registro de nascimento em Portalegre/RN, seu nascimento ocorre na cidade de São Miguel/RN, devido a condição nômade de seu Pai, Alcides Batista, devido aos ofícios do trabalho, como construtor de açudes pelo DNOCS^[Departamento Nacional de Obras Contra Seca, uma repartição de Órgão Federal.]. Talvez a astúcia poética de Ciriégola tenha heranças genéticas de Alcides Batista, uma vez que este sem ao menos ter o primário completo, usava sementes de feijão no bolso como a sua calculadora, para averiguar se os cálculos das fundações de açudes na região estavam de acordo com os projetos desenvolvidos pelos engenheiros da época.
 
 Essa astúcia herdada fez com que Ciriégola conseguisse desde as suas frustações, como a poesia na subseção \@ref(poesia-medo), intitulada __Medo__, até mesmo a sua  anomalia etílica, em __A Dama de Branco__, ser transformada em poesia. Sem mais, a seção a seguir apresenta uma seleção de 17 poesias, textos ou prosas sobre Ciriégola por ele mesmo.
 
@@ -140,7 +140,7 @@ Intuindo consertar outra vez minhas pegadas
 Outra vez vou vagar pelas ruas e estradas
 Burilando as ações e cada gesto desta lida
 Assim receberei minha  certa e justa medida
-Tornarei á minha  casa para nunca mais voltar
+Tornarei à minha  casa para nunca mais voltar
 Instalarei em minha terra um estado popular
 Saturado de beleza, justiça, amor e sorte
 Terá de  novo  nome de Rio Grande do Norte
