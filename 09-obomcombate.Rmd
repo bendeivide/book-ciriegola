@@ -12,20 +12,20 @@
 Estes versos são para o vulgo que por acaso tenha fugido
 Do compromisso fiel às raízes sagradas de um peregrino
 Pois o destino escabroso e abrasador que espera este lupino
-É a lança afiada e altiva da Lei  em defesa de um justo traído.
+É a lança afiada e altiva da Lei  em defesa de um justo traído
 
 A mente torpe do desonesto calculista acredita ter  nascido
-Aqui, para levar vantagem em tudo e até mesmo no seu tino.
+Aqui, para levar vantagem em tudo e até mesmo no seu tino
 Não sabe o abismo e o pesadelo que contrai este infeliz menino
-Mergulhando a consciência devedora num vendaval indefinido.
+Mergulhando a consciência devedora num vendaval indefinido
 
 Mas o bom combate se resume na tolerância e na compaixão
 Onde o bucaneiro se recolhe na insignificância da sua vã razão
-Para sentir de Deus seu amor e a força do martelo do tribunal.
+Para sentir de Deus seu amor e a força do martelo do tribunal
 
-Que eu seja complacente com esta criatura que ensinei a sonhar,
+Que eu seja complacente com esta criatura que ensinei a sonhar
 Mas que aprenda na sua ignota vergonha para nunca mais errar
-E nem mais nunca se apodere da honra de quem nunca lhe fez  mal.
+E nem mais nunca se apodere da honra de quem nunca lhe fez  mal
 </pre>
 
 ### João Evangelista
@@ -139,9 +139,9 @@ Com brejeiras falas corrompeste nossa fé
 Roubaste nosso ouro pelo tráfico da maré
 Nossas mulheres foram tuas companheiras
 
-Mas, vocês esqueceram a sina de sua maldição
-O sangue que você sujou na torpe miscigenação
-Nascerá em seu domicílio doravantemente
+Mas, vós esquecestes a sina de tua maldição
+O sangue que tu sujaste na torpe miscigenação
+Nascerá em teu domicílio doravantemente
 
 Mesmo que olhos claros nasçam em fina pele escura
 Estes carregarão nossos dons e nossa cultura
@@ -178,7 +178,7 @@ religiões?”
 
 “As religiões são como sapatos velhos durante uma caminhada longa, têm
 certamente a sua serventia, mas, como todas as coisas, estão sujeitas a
-ação do tempo, chega um momento em que devemos descartá-las porque ,
+ação do tempo, chega um momento em que devemos descartá-las, porque
 mesmo servindo em nossos pés não nos serve mais no concurso de um sistema
 social. Devido a insensatez e mediocridade humana achamos que descartando
 os sapatos estaremos inexplicavelmente jogando fora uma parte nossa,
@@ -198,7 +198,7 @@ No sol quente agarrado ao cabo longo de uma enxada
 O carrapicho nos pés e a mão sangrando e calejada
 Olhando no horizonte se a chuva vai custar a chegar
 
-Eu queria tanto ver teu filho na fila de um hospital
+Eu queria tanto ver seu filho na fila de um hospital
 Sem assistência ou numa escola sem teto e sem segurança
 Voltando pra casa desnutrido, sem fé e sem esperança
 Num outro dia de mesmice cuja miséria e um longo recital
@@ -208,7 +208,7 @@ Esperando um remédio de coração  sem bula e sem vistoria
 Que falta sempre e sem dúvidas nas farmácias estaduais
 
 Talvez um dia o despertar politico chegue ao meu povo
-Assim a cidadania não  permitira que aconteça de novo
+Assim a cidadania não  permitirá que aconteça de novo
 E jamais elejam esses bucaneiros, para sempre nunca mais
 </pre>
 
@@ -217,7 +217,7 @@ E jamais elejam esses bucaneiros, para sempre nunca mais
 <pre>
 Muitos de nós descobrimos, desde cedo, o Caminho que devemos trilhar.
 Porém a auto sabotagem advinda de Forças Externas densas, junto aos
-compromisso com a cultura dos homens nos fazem PROCASTINAR nossos ideais
+compromissos com a cultura dos homens nos fazem PROCASTINAR nossos ideais
 de existência sem esperanças de um futuro inexistencial. Assim, nos
 apegamos a fé nos dogmas e numa política que tudo o que deseja é
 vampirizar “o rebanho”, mantendo-o enclausurado nessa SENZALA

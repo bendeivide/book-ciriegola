@@ -469,7 +469,7 @@ Como eu poderia sentir sem o teu coração e pensar sem teu sano cérebro?
 Como eu poderia atingir o paraíso e me reproduzir sem o teu fálus?
 
 Lakayo, meu cavalo baio, meu companheiro amigo, inseparável soma
-Miro-te no espelho e sinto a presença genomática dos meu ancestrais
+Miro-te no espelho e sinto a presença genomática dos meus ancestrais
 Não pude dar-te a companheira ufana dos teus indomáveis onirismos
 Mas contemplo o milagre da beleza estóica no semblante da tua prole
 Não pude dar-te rédeas para correr o mundo das tuas sutis espertezas
@@ -489,8 +489,8 @@ Cresceste anarquista e morrerás liberto de todos os fundamentalismos
 ### Personalidade
 
 <pre>
-De poeta e cantor, sou novo,
-Mas de amor e coração,
+De poeta e cantor, sou novo
+Mas de amor e coração
 Eu sou velho
 Se já não fui feliz
 É porque Pai destino não quis
@@ -538,7 +538,7 @@ Corre quente em mim
 O sangue poesia
 A ironia
 Mãe da natureza plebe
-Fez de mim um
+Fez de mim
 Um cantador
 Solicitude
 É a magia do meu ser
@@ -563,7 +563,7 @@ Deixando rastro e poeira
 Só uma passagem de ida
 Quem sonhou com a vida
 Encontra a vida
-Essa infinda  crença,
+Essa infinda  crença
 Quem sonhou com morte
 Ha decepção na imortalidade
 Num coração peregrino
@@ -586,7 +586,7 @@ Eu sou panati
 Caboclo da serra
 Nasci nessa terra
 Hei de morrer aqui
-No rio apodi
+No rio Apodi
 
 Costumava  pescar
 Pra fome mitigar

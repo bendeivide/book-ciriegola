@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Um dos principais assuntos quando paramos para conversar, eu e Ciriégola, é sobre o tema desse Capítulo, Fauna, Flora e Misticismo. Na década de 70, quando ele escreve __Sertão de Metal__^[Essa poesia se tornou música e a música de trabalho do disco gravado em 1996, em parceria com Raimuncírio Ferreira Pontes, outro poeta Pau-ferrense, que recebe o nome da própria música.], não inserida no livro, falando dos problemas sobre a fauna, flora, e nosso convívio social, que o avanço tecnológico traria para um futuro próximo, momento esse em que ainda estavam surgindo os computadores de terceira geração. E hoje como uma premonição de Nostradamus, é uma realidade. Outras obras-primas, escritas nesses últimos anos, e disponíveis na próxima seção, são __Pachamama__ e __Margaridas na Favela__, texto poéticos para reflexões profundas sobre o trato do homem para com a natureza. Grande orações, ao Deus Interior se transbordam em __Afirmações de Um Peregrino__ e em __GRASPILUXIMUTECODEFAVON__. Apreciem com carinho a próximo seção, apresentando estas poesias e muito mais.
+Um dos principais assuntos quando paramos para conversar, eu e Ciriégola, é sobre o tema desse Capítulo, Fauna, Flora e Misticismo. Na década de 70, quando ele escreve __Sertão de Metal__^[Essa poesia se tornou música e a música de trabalho do disco gravado em 1996, em parceria com Raimuncírio Ferreira Pontes, outro poeta Pau-ferrense, cujo disco recebe o nome da própria música.], não inserida no livro, falando dos problemas sobre a fauna, flora, e nosso convívio social, que o avanço tecnológico traria para um futuro próximo, momento esse em que ainda estavam surgindo os computadores de terceira geração. E hoje como uma premonição de Nostradamus, é uma realidade. Outras obras-primas, escritas nesses últimos anos, e disponíveis na próxima seção, são __Pachamama__ e __Margaridas na Favela__, texto poéticos para reflexões profundas sobre o trato do homem para com a natureza. Grande orações, ao Deus Interior se transbordam em __Afirmações de Um Peregrino__ e em __GRASPILUXIMUTECODEFAVON__. Apreciem com carinho a próxima seção, sendo apresentado estas poesias e muito mais.
 
 
 ## Poesias, prosas e textos
@@ -15,7 +15,7 @@ Até sinto cheiro de morte no teu suor
 Pachamama, o homem pisou pesado
 No solo, pra nós sagrado
 Morada dos ancestrais
-Seus rios apodrecidos
+Teus rios apodrecidos
 Animais são abatidos
 Em nome do capital
 O machado bronco
@@ -41,7 +41,7 @@ O grande Pai tá zangado
 El niño manda o recado
 Destrói tudo por onde vai
 No horizonte uma Águia vagueia ao por do sol
-Faz a sua predição:
+Faz a tua predição:
 Ó homem néscio, envolto em tecnologia
 A mais dias ou a menos dias
 Vai morrer só na multidão
@@ -60,7 +60,7 @@ Quando Deus um dia
 Conceder minhas asas
 Para voar
 Subo o oceano
-No mais largo vôo
+No mais largo voo
 Solto o meu cantar
 
 Na razão primeira
@@ -206,7 +206,7 @@ Quando a seca desolou esse lado do nordeste
 Comia-se palmatória e farinha de macambira
 Numa pilha de maravalha assava batata doce
 Como se fosse guloseima e amarrava numa embira
-O resto das raízes, pois não repor donde se tira
+O resto das raízes, pois se não repor donde se tira
  Escassea a provisão, fica seco o caçuá
 No roçado sem comida a vida fica uma loucura
 Dessa forma eu sou mesmo essa interessante mistura
@@ -226,7 +226,7 @@ O meu creme dental era a rapa nova de juá
 O meu brinquedo era osso e latinha de sardinha
 Minha mochila escolar era um saco plástico de bolacha
 E a merenda na escola era rapadura com farinha
-Eu sei que esse conforto moderno a gente inda não rinha
+Eu sei que esse conforto moderno a gente inda não tinha
 Mas tinha a folia de reis, as cirandas, festa do boi e vatapá
 Naquilo a alegria e o delírio corria em toda largura
 Dessa forma eu sou mesmo essa interessante mistura
@@ -255,7 +255,7 @@ E das meninas o mimoso
 Fui um corcel fogoso
 Jogando terra pra trás
 Hoje perdi todo cartaz
-Contribui e fiz a prole
+Contribuí e fiz a prole
 Perdi o gás do meu fole
 Tudo é karma e nada mais
 
@@ -278,7 +278,7 @@ O povo não sabe quantos
 Foram nossos ancestrais
 Pais dos pais de nossos pais
 Já se foram e já voltaram
-As as tolices não mudaram
+As tolices não mudaram
 Tudo é karma e nada mais
 
 Se hoje estou contente

@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Ah..., quantos lugares serão possíveis de conhecer com a seleção de poesias de Ciriégola para este Capítulo. O carinho que ele tem pela cidade micaelense, talvez pelas boas lembranças de nossos familiares que posso representá-los nos nomes de Tia Graça e vovô Sebastião, pessoas de grande representação a nossa família, e que a cidade de São Miguel/RN é mencionada em muitos momentos pelos seus textos. Mas, também um convite a existência de algum lugar utópico, onde homem e natureza possam viver em simbiose, e que o AGORA seja o seu passado e futuro. Por meio desses textos, dentre outros, o leitor poderá desfrutar para o encontro do seu próprio lugar, como parte integrante desse Universo. Uma boa leitura!
+Ah..., quantos lugares são possíveis de conhecer com a seleção de poesias de Ciriégola para esse Capítulo. O carinho que ele tem pela cidade micaelense, talvez pelas boas lembranças de nossos familiares que posso representá-los nos nomes de Tia Graça e vovô Sebastião, pessoas de grande representação a nossa família, e que a cidade de São Miguel/RN é mencionada em muitos momentos pelos seus textos. Mas, também um convite a existência de algum lugar utópico, onde homem e natureza possam viver em simbiose, e que o AGORA seja o seu passado e futuro. Por meio destes textos, dentre outros, o leitor poderá desfrutar o encontro do seu próprio lugar, como parte integrante desse Universo. Uma boa leitura!
 
 
 ## Poesias, prosas e textos
@@ -11,19 +11,21 @@ Ah..., quantos lugares serão possíveis de conhecer com a seleção de poesias 
 
 <pre>
 Num verde silencioso
-Descansa você cidade
+Descansa ó tu, cidade
 Vê meus olhos do cerrado
+
 Verde e solidariedade
-Sou seu filho que nasceu
+Sou teu filho que nasceu
 Vagabundo sem maldade
 
-Todo amor que você tem
+Todo amor em que tu tens
 Como ninguém, minha cidade
 
 Sinhá gigante pigméia
 Forte fibra da chapada
 Com mandacaru cheiroso
 Erudito nas quebradas
+
 
 O Arcanjo já desceu
 Mas estás de pé cidade
@@ -34,9 +36,9 @@ Na balança de Miguel
 Foste sã em honestidade
 Teu religioso forte fez de mim: felicidade
 Tu és minha mãe
-Minha cidade.
+Minha cidade
 
-Todo amor que você tem
+Todo amor em que tu tens
 Como ninguém, minha cidade
 </pre>
 
@@ -109,7 +111,7 @@ Deputados, presidentes, senadores e outros lupinos legisladores
 Lá, ninguém sabe  para que servem esses ufanadores
 
 Oh mia koro! Ke admirinda mondo!
-Na minha Terra, seu moço,  viajamos também para dentro de nós mesmo
+Na minha Terra, seu moço,  viajamos também para dentro de nós mesmos
 Por  isso só choramos de alegria e não sofremos de tantas  saudades
 Na minha Terra, não choramos quando temos que partir
 Pois não temos  notícias ruins na chegada
@@ -139,7 +141,7 @@ Sobre  si  mesma,  e  que   as    pessoas  não  negueM
 O direito que todos têm de lutar pela felicidadE
 Elevando  a  qualidade   dos nossos pensamentoS
 Sobrepujando   desejos  torpes   e  senil no homeM
-Poderemos   chegar   ao   que   chamamos   paraisO
+Poderemos   chegar   ao   que   chamamos   paraísO
 Indiferentemente   de  qualquer  religião, o hífeN
 Religante   entre   o   homem  e   a  presença divinA
 Impera    naqueles   que  têm  o    reduzido    déficiT
@@ -305,8 +307,8 @@ Que os oculistas cuidem apenas do olho do mundo
 Quando eu olho algumas vezes nos confins daquele céu
 Deve existir algum lugar em que eu possa descansar
 Amar e dar sossego ao meu pensamento fulgaz
-Que todas as mulheres tenham os  mesmo atributos das outras
-Que os homens compartilhem sempre das mesmas alegrias e conquista
+Que todas as mulheres tenham os  mesmos atributos das outras
+Que os homens compartilhem sempre das mesmas alegrias e conquistas
 Que os seres humanos reaprendam a conversar com a Mãe Terra
 Que a dor, a  morte e o ódio sejam coisas do passado
 Que desconheçam os legisladores, os executivos e os  justiceiros

@@ -79,7 +79,7 @@ Seu sangue ruboriza os malares faciais denunciando nossa condição
 Instantânea de juvenilidade como se explodisse toda carga da libido
 Toda vez que a vemos é como se despertasse um vulcão enfurecido
 Roendo e corroendo de dentro para fora todo prenúncio de tristeza
-A alma saltita a procura de qualquer palavra que lhe dê um verso
+A alma saltita à procura de qualquer palavra que lhe dê um verso
 Uma palavra qualquer se transmuta em uma ode de Cervantes
 Esta alma pode não ser eterna, mas imortaliza sempre o momento
 Santifica todas as coisas por mais medíocres ou promíscuas que sejam

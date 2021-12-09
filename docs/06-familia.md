@@ -2,9 +2,9 @@
 
 ## Introdução
 
-Eu quando menino, ainda não havia nascido meu irmão caçula, Aléfe Batista, adorava esperar meu pai chegar para assistirmos desenho juntos. Adorávamos o Pica-Pau, dentre outros. Porém, à demora pela sua chegada do trabalho, era um tempo sem fim. Ao ponto, de eu ter que esperá-lo na esquina da Rua Hipólito Cassiano com a Rua 4 de Setembro, em Pau dos Ferros/RN. Esta última tem uma ladeira cuja subida vai ao encontro da Escola Estadual Tarcício Maia. Era lá o trabalho do meu pai, de modo que quando eu avistava, corria o máximo que podia. Daí surge a poesia __Pimpolho__, que logo em seguida, se torna música, e quando a canto, sempre volto ao mesmo lugar a inocência de um sonhador.
+Eu quando menino, ainda não havia nascido meu irmão caçula, Aléfe Batista, adorava esperar meu pai chegar para assistirmos desenho juntos. Adorávamos o Pica-Pau, dentre outros. Porém, à demora pela sua chegada do trabalho, era um tempo sem fim. Ao ponto, de eu ter que esperá-lo na esquina da Rua Hipólito Cassiano com a Rua 4 de Setembro, em Pau dos Ferros/RN. Esta última tem uma ladeira cuja subida vai ao encontro da Escola Estadual Tarcício Maia. Era lá o trabalho do meu pai, de modo que quando eu avistava, corria o máximo que podia. Daí surge a poesia __Pimpolho__, que logo em seguida, se torna música, e quando a canto, sempre volto ao mesmo lugar, a inocência de um sonhador.
 
-Temos também muitas outras emoções, com __Colibri__, dedicada ao meu irmão Álefe Batista, __Uma Ala Na Luna__ dedicada a Allanna Lopes, e ao nosso aconchego familia, __A Casa do Meu Pai__, que se refere ao meu avó Alcides Batista. Por fim, __Manhã, Tarde e Noite__ é o retorno para a sua casa, após as viagens, ao encontro de nossa Matriarca, Chica Batista. Sintam um pouco de nós, e leve apenas o que for bom!
+Temos também muitas outras emoções, como __Colibri__, dedicada ao meu irmão Álefe Batista, __Uma Ala Na Luna__ dedicada a Allanna Lopes, e ao nosso aconchego familiar, __A Casa do Meu Pai__, que se refere ao meu avó Alcides Batista. Por fim, __Manhã, Tarde e Noite__ é o retorno para a sua casa, após as viagens, ao encontro de nossa Matriarca, Chica Batista. Sintam um pouco de nós, e leve apenas o que for bom!
 
 
 
@@ -21,14 +21,14 @@ Ferir-me   ou magoar
 Aqui por fora
 Quando a coisa está preta
 Eu pego minha maleta
-E vou pra casa do pai.
+E vou pra casa do pai
 Eu sou filho único
 E apesar da dependência
 Minha mãe  tem paciência
 Cura toda minha dor
 Minha casa tem poder e alegria
 Amor e sabedoria
-Tem calor, sossego e paz.
+Tem calor, sossego e paz
 
 Eu sempre vou
 Para casa do meu pai!
@@ -82,7 +82,7 @@ Melhor será  agradecer a Deus
 Ainda sou feliz
 Ave Maria! Cheia de graça
 Saúde pra Chica meu bem
-Não deixes faltar o pão de cada dia
+Não deixe faltar o pão de cada dia
 Protege meus filhos também
 </pre>
 
@@ -108,11 +108,11 @@ A lei fez feliz minha fé
 Ache caro e ruim quem quizer
 Disso eu não abro mão
 
-Do teu lado quem vem vai te ver
+Do seu lado quem vem vai lhe ver
 Redonda  e num feliz  amanhecer
 Seu rebento não surgirá em vão
 
-Uma ala na luna jaz viva minha emoção
+Uma ala na luna faz viva minha emoção
 Seus pequenos: minha prole \emph{ben} dita
 </pre>
 
@@ -126,7 +126,7 @@ Sinto uma saudade louca
 E uma vontade lúcida
 De voltar
 De voltar pra casa
-Vai caminheiro a frente
+Vai caminheiro na frente
 Diga a Chiquinha
 Que eu vou chegar
 Deixe a rede na varanda
@@ -168,13 +168,13 @@ A gente vai dançar
 ### Para Dona FLÔ
 
 <pre>
-Anos 80s, nenhum motivo faria me esquecer dessa década, no comecinho
+Anos 80, nenhum motivo faria me esquecer dessa década, no comecinho
 de 80 eu vinha chegando de São Paulo, a cidade dos sonhos de muitos
 jovens que como eu ouvia o 14 Bis e a Banda Eva, foi mesmo por essa
 época que me encontrei pela primeira vez com dona Flô, minha FLÔ do
 Apodi/RN. Nessa época eu tinha um fusca laranja, quer dizer, era de seu 
 Alcides meu pai, mas eu mentia para todas elas e tinha muitos sonhos e
-muitas estórias na ideia, foi também nessa época maravilhosa que eu
+muitas estórias na ideia. Foi também nessa época maravilhosa que eu
 encontrei aquela galeguinha acanhada vinda do Sítio Bico-Torto às
 margens da Lagoa Apodi: minha FLÔ (Francisca Leite de Oliveira –
 Chica), ela tinha um pouco de nada e eu nem de nada tinha um pouco,
@@ -188,7 +188,7 @@ naqueles tempos, todo meu imaginário era pura criatividade, eu
 respirava música e dormia nos braços da poesia, mas tinha um detalhe 
 interessante: eu procedia daquela forma simplesmente porque gostava de
 viver daquela maneira, meu corpo físico exibia o esplendor dos meus 
-vinte e poucos anos e os hormônios vazavam por todos os poros, foi 
+vinte e poucos anos e os hormônios vazavam por todos os poros. Foi 
 nessa época em que encontrei minha FLÔ, Chica de Bento de Tito lá do 
 SBT (Sítio Bico-Torto), como muita gente conhecia minha rotina sabia 
 que minha vida era uma festa diuturna e enchiam a cabeça de Chica de 
@@ -196,7 +196,7 @@ bobagens, mas eu sempre falava para minha galega: que maior do que meu
 amor por ela só a coroa do Criador e a vontade de andar naquele fusca 
 velho, então eu via nos olhos inocentes da minha FLÔ que ela confiava
 no meu destino. E assim junto a minha odisseia franciscana eu comecei
-e terminei minha primeira graduação, nesse interim eu já tinha casado
+e terminei minha primeira graduação. Nesse interim eu já tinha casado
 com Chica nos três cartórios e já tínhamos perdidos três crianças,
 dois desses meninos voltaram depois com muito vigor e graça do Grande
 Espírito: Ben e Álefe. Esse ano de 2015, fez 31 anos que nós
@@ -209,7 +209,7 @@ Hoje minha FLÔ completa mais um ciclo de vida, posso perceber a
 covardia do tempo ao dobrar-lhe a tez e o começo de um colorido
 degradê invadir seus cabelos, ainda assim sinto a fragrância e o
 frescor do seu carinho como a 30 anos atrás, seus cuidados pelos seus
-três homens continuam impecável como antes, o afã da sua labuta
+três homens continuam impecável como antes. O afã da sua labuta
 continua religiosamente como antes, de vez em quando ouço dos vizinhos
 da comunidade o quanto dona FLÔ é grande e poderosa, mas com toda essa
 consciência e certeza no meu convívio domiciliar ainda não tive a
