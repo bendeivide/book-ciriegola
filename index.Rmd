@@ -63,13 +63,19 @@ Para todo nosso Clã,
 Para todos os irmãos que ainda estão na Província do RN e para todos os que já foram para o Oriente Eterno,
 
 Para VOCÊ, o INOMINÁVEL,
-  
+
+<div align="right" >
 Dedico.
+</div>
+
 
 # Epígrafe {-}
 
 Ser poeta não é necessariamente saber fazer o verso, mas dizer as coisas com beleza e graça, é ter certeza de que sua emoção é boa e construtiva para poder motivar os outros; é ter inteligência o suficiente para fazer do instante um grande momento. Ser poeta, gentil e sábio é saber ver na essência das pessoas nossas semelhanças e nossa paixão pela eternidade. 
-(José Alcigério Batista)
+<div align="right" >
+José Alcigério Batista
+</div>
+
 
 # Prefácio {-}
 
