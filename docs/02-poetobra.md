@@ -103,7 +103,7 @@ Alcides, nome de pain’
 Minha mãe é Josélia
 Minha irmã, Auricélia
 E tudo ficou assim
-Da mesma forma p’ra mim
+Da mesma forma pra mim
 Alcigério, conquista
 Usual, mas não despista
 O meu nome verdadeiro
@@ -203,7 +203,7 @@ Sou um Falconídeo de tantas lembranças boas
 Que voa nas asas de um tempo altaneiro
 Onde o falcão ligeiro tinha abundância e fartura
 A doçura da jandaíra enchia as cabaças dos antigos
-E os inimigos comuns eram tão poucos.
+E os inimigos comuns eram tão poucos
 Naquele tempo o Apodi corria no seu leito
 Do jeito que um curumim saltita na puberdade
 Num sabe ?! Cheio de escaramuças e liberdade
