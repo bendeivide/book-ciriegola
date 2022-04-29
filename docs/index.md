@@ -1,20 +1,16 @@
 --- 
 title: "Pelos caminhos de Ciriégola"
 author: "Ben Dêivide"
-date: "2022-01-27"
+date: "2022-04-29"
 #lang: pt
 csl: abnt.csl
 site: bookdown::bookdown_site
 bibliography:
-- biblio.bib
+  - biblio.bib
 biblio-style: apalike
 link-citations: yes
-
-
-
 url: 'https://bendeivide.github.io/book-ciriegola/'
 github-repo: bendeivide/book-ciriegola
-
 ---
 # Bem-vindo {-}
 
