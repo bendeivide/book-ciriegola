@@ -19,9 +19,9 @@ github-repo: bendeivide/book-ciriegola
 
 # Bem-vindo {-}
 
-<a href="https://www.amazon.com/-/pt/dp/650035611X/ref=sr_1_1?qid=1652557080&refinements=p_27%3ABen+D%C3%AAivide+de+Oliveira+Batista&s=books&sr=1-1&text=Ben+D%C3%AAivide+de+Oliveira+Batista"><img src="capa.png" align="right" width="250" height="366" class="cover" alt="Compre pela internet" /></a> Esse é um *livro digital* intitulado __"[Pelos caminhos de Ciriégola]()"__, com o selo [Democratizando Conhecimento (DC)](https://bendeivide.github.io/dc/). O Livro é um convite para mergular nas poesias, textos e prosas de José Alcigério Batista, o Ciriégola.
+<a href="https://www.amazon.com/-/pt/dp/650035611X/ref=sr_1_1?qid=1652557080&refinements=p_27%3ABen+D%C3%AAivide+de+Oliveira+Batista&s=books&sr=1-1&text=Ben+D%C3%AAivide+de+Oliveira+Batista" target="_blank"><img src="capa.png" align="right" width="250" height="366" class="cover" alt="Compre pela internet" /></a> Esse é um *livro digital* intitulado __"[Pelos caminhos de Ciriégola]()"__, com o selo [Democratizando Conhecimento (DC)](https://bendeivide.github.io/dc/). O Livro é um convite para mergular nas poesias, textos e prosas de José Alcigério Batista, o Ciriégola.
 
-Para quem deseja obter o livro físico, acessar a [Amazon.com](https://www.amazon.com/-/pt/dp/650035611X/ref=sr_1_1?qid=1652557080&refinements=p_27%3ABen+D%C3%AAivide+de+Oliveira+Batista&s=books&sr=1-1&text=Ben+D%C3%AAivide+de+Oliveira+Batista).
+Para quem deseja obter o livro físico, acessar a [Amazon.com](https://www.amazon.com/-/pt/dp/650035611X/ref=sr_1_1?qid=1652557080&refinements=p_27%3ABen+D%C3%AAivide+de+Oliveira+Batista&s=books&sr=1-1&text=Ben+D%C3%AAivide+de+Oliveira+Batista){target="_blank"}.
 
 O número de leitores  que acessaram esse livro:
 </br>
@@ -31,7 +31,7 @@ O número de leitores  que acessaram esse livro:
 
 ## ISBN {-}
 
-Impressão (brochura) nos EUA, Impresso (capa dura) e publicado no Brasil:
+Impressão (brochura) nos EUA. Impresso (capa dura) e publicado no Brasil:
 
 - __ISBN__ (Digital): 978-65-00-35612-0
 - __ISBN__ (Brochura): 978-65-00-35611-3
