@@ -1,7 +1,7 @@
 --- 
 title: "Pelos caminhos de Ciriégola"
 author: "Ben Dêivide"
-date: "2022-04-29"
+date: "2022-05-14"
 #lang: pt
 csl: abnt.csl
 site: bookdown::bookdown_site
@@ -12,26 +12,40 @@ link-citations: yes
 url: 'https://bendeivide.github.io/book-ciriegola/'
 github-repo: bendeivide/book-ciriegola
 ---
+
+<!-- <a href="https://bendeivide.github.io/books/ciriegola/"><img src="capa.png" align="right" width="250" height="366" class="cover" alt="Compre pela internet" /> -->
+
+
+
 # Bem-vindo {-}
 
-<a href="https://bendeivide.github.io/books/ciriegola/"><img src="capa.png" align="right" width="250" height="366" class="cover" alt="Compre pela internet" /></a> Esse é um *livro digital* intitulado __"[Pelos caminhos de Ciriégola]()"__, com o selo [Democratizando Conhecimento (DC)](https://bendeivide.github.io/dc/). O Livro é um convite para mergular nas poesias, textos e prosas de José Alcigério Batista, o Ciriégola.
+<a href="https://www.amazon.com/-/pt/dp/650035611X/ref=sr_1_1?qid=1652557080&refinements=p_27%3ABen+D%C3%AAivide+de+Oliveira+Batista&s=books&sr=1-1&text=Ben+D%C3%AAivide+de+Oliveira+Batista"><img src="capa.png" align="right" width="250" height="366" class="cover" alt="Compre pela internet" /></a> Esse é um *livro digital* intitulado __"[Pelos caminhos de Ciriégola]()"__, com o selo [Democratizando Conhecimento (DC)](https://bendeivide.github.io/dc/). O Livro é um convite para mergular nas poesias, textos e prosas de José Alcigério Batista, o Ciriégola.
+
+Para quem deseja obter o livro físico, acessar a [Amazon.com](https://www.amazon.com/-/pt/dp/650035611X/ref=sr_1_1?qid=1652557080&refinements=p_27%3ABen+D%C3%AAivide+de+Oliveira+Batista&s=books&sr=1-1&text=Ben+D%C3%AAivide+de+Oliveira+Batista).
 
 O número de leitores  que acessaram esse livro:
 </br>
 <div align='center'><a href='https://www.free-website-hit-counter.com'><img src='https://www.free-website-hit-counter.com/c.php?d=9&id=130209&s=288' border='0' alt='Free Website Hit Counter'></a><br / ><small><a href='https://www.free-website-hit-counter.com' title="Free Website Hit Counter">Free website hit counter</a></small></div>
 
+
+
 ## ISBN {-}
 
-Impresso e publicado no Brasil:
+Impressão (brochura) nos EUA, Impresso (capa dura) e publicado no Brasil:
 
 - __ISBN__ (Digital): 978-65-00-35612-0
-- __ISBN__ (Impresso): 978-65-00-35611-3
+- __ISBN__ (Brochura): 978-65-00-35611-3
+- __ISBN__ (Capa dura): 978-65-00-45302-7
+
+
 
 ## Licença {-}
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Este trabalho está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons - Atribuição-NãoComercial 4.0 Internacional</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Este trabalho está sob a Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons - Atribuição-NãoComercial 4.0 Internacional</a>.
 
 <a href="https://bendeivide.github.io/dc/"><img src="Logo-DC-preto2.png" align="left" width="180" /></a>
+
+
 
 # Como citar {-}
 
