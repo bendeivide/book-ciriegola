@@ -20,19 +20,22 @@ csl: abnt.csl
 
 # Bem-vindo {-}
 
-<a href="https://www.amazon.com/-/pt/dp/650035611X/ref=sr_1_1?qid=1652557080&refinements=p_27%3ABen+D%C3%AAivide+de+Oliveira+Batista&s=books&sr=1-1&text=Ben+D%C3%AAivide+de+Oliveira+Batista" target="_blank"><img src="capa.png" align="right" width="250" height="366" class="cover" alt="Compre pela internet" /></a> Esse é um *livro digital* intitulado __"[Pelos caminhos de Ciriégola]()"__, com o selo [Democratizando Conhecimento (DC)](https://bendeivide.github.io/dc/). O Livro é um convite para mergular nas poesias, textos e prosas de José Alcigério Batista, o Ciriégola.
-
-Para quem deseja obter o livro físico, acessar a [Amazon.com](https://www.amazon.com/-/pt/dp/650035611X/ref=sr_1_1?qid=1652557080&refinements=p_27%3ABen+D%C3%AAivide+de+Oliveira+Batista&s=books&sr=1-1&text=Ben+D%C3%AAivide+de+Oliveira+Batista){target="_blank"}.
+<a href="https://shopee.com.br/product/880978340/14993816937/" target="_blank"><img src="capa.png" align="right" width="250" height="366" class="cover" alt="Compre pela internet" /></a> Esse é um *livro digital* intitulado __"[Pelos caminhos de Ciriégola]()"__, com o selo [Democratizando Conhecimento (DC)](https://bendeivide.github.io/dc/). O Livro é um convite para mergular nas poesias, textos e prosas de José Alcigério Batista, o Ciriégola.
 
 O número de leitores  que acessaram esse livro:
 </br>
 <div align='center'><a href='https://www.free-website-hit-counter.com'><img src='https://www.free-website-hit-counter.com/c.php?d=9&id=130209&s=288' border='0' alt='Free Website Hit Counter'></a><br / ><small><a href='https://www.free-website-hit-counter.com' title="Free Website Hit Counter">Free website hit counter</a></small></div>
 
 
+## Livro físico {-}
+
+- [Shopee](https://shopee.com.br/product/880978340/14993816937/){target="_blank"}
+- [Mercado livre](https://produto.mercadolivre.com.br/MLB-2844606023-livro-pelos-caminhos-de-ciriegola-capa-triplex-brilhosa-impresso-interna-preto-e-branco-_JM){target="_blank"}
+- [Amazon](https://www.amazon.com/-/pt/dp/650035611X/ref=sr_1_1?qid=1652557080&refinements=p_27%3ABen+D%C3%AAivide+de+Oliveira+Batista&s=books&sr=1-1&text=Ben+D%C3%AAivide+de+Oliveira+Batista){target="_blank"}
+
+
 
 ## ISBN {-}
-
-Impressão (brochura) nos EUA. Impresso (capa dura) e publicado no Brasil:
 
 - __ISBN__ (Digital): 978-65-00-35612-0
 - __ISBN__ (Brochura): 978-65-00-35611-3
