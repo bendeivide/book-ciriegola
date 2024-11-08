@@ -24,7 +24,10 @@ csl: abnt.csl
 
 O número de leitores  que acessaram esse livro:
 </br>
-<div align='center'><a href='https://www.free-website-hit-counter.com'><img src='https://www.free-website-hit-counter.com/c.php?d=9&id=130209&s=288' border='0' alt='Free Website Hit Counter'></a><br / ><small><a href='https://www.free-website-hit-counter.com' title="Free Website Hit Counter">Free website hit counter</a></small></div>
+<!-- hitwebcounter Code START -->
+<div align='center'>
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=17263621&style=0030&nbdigits=9&type=page&initCount=1000" title="Counter Widget" Alt="Visit counter For Websites"   border="0" /></a></div>          
 
 
 ## Livro físico {-}
